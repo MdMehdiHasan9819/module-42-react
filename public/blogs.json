@@ -1,0 +1,52 @@
+[
+    {
+        "ID": 12345,
+        "Cover": "https://i.ibb.co/y0JgSB3/10966705-183.jpg",
+        "Title": "Exploring the Mysteries of Quantum Physics",
+        "Author": "Dr. Emily Smith",
+        "Author_Image": "[Author Image Link]",
+        "Posted_Date": "September 14, 2023",
+        "Reading_Time": 8,
+        "Hashtags": ["#QuantumPhysics", "#Science", "#Exploration"]
+    },
+    {
+        "ID": 67890,
+        "Cover": "https://i.ibb.co/KhrDWd7/10966709-184.jpg",
+        "Title": "The Art of Gourmet Cooking: A Culinary Journey",
+        "Author": "Chef Michael Johnson",
+        "Author_Image": "[Author Image Link]",
+        "Posted_Date": "September 12, 2023",
+        "Reading_Time": 10,
+        "Hashtags": ["#Cooking", "#Gourmet", "#Food"]
+    },
+    {
+        "ID": 23456,
+        "Cover": "https://i.ibb.co/S0B8Cr9/10966716-186.jpg",
+        "Title": "The Ultimate Guide to Outdoor Adventure Sports",
+        "Author": "Sarah Anderson",
+        "Author_Image": "[Author Image Link]",
+        "Posted_Date": "September 10, 2023",
+        "Reading_Time": 15,
+        "Hashtags": ["#Adventure", "#Sports", "#Outdoor"]
+    },
+    {
+        "ID": 78901,
+        "Cover": "https://i.ibb.co/XLH78HM/12894905-265-digital-marketing-facebook-cover-page-template.jpg",
+        "Title": "Financial Planning for a Secure Future",
+        "Author": "John Davis",
+        "Author_Image": "[Author Image Link]",
+        "Posted_Date": "September 8, 2023",
+        "Reading_Time": 12,
+        "Hashtags": ["#Finance", "#Investment", "#Planning"]
+    },
+    {
+        "ID": 34567,
+        "Cover": "https://i.ibb.co/XLH78HM/12894905-265-digital-marketing-facebook-cover-page-template.jpghttps://i.ibb.co/ZTDvxRB/13197452-300-fashion-facebook-banner-template.jpg",
+        "Title": "Mindfulness Meditation: Achieving Inner Peace",
+        "Author": "Dr. Amanda Miller",
+        "Author_Image": "[Author Image Link]",
+        "Posted_Date": "September 6, 2023",
+        "Reading_Time": 7,
+        "Hashtags": ["#Mindfulness", "#Meditation", "#InnerPeace"]
+    }
+]
